@@ -1,4 +1,4 @@
-# pizzatime
+# PizzaTime
 
 demo login
 ----------
